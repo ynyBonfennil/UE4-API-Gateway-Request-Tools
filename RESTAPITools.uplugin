@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "REST API Tools",
+	"Description": "Tools for interaction with REST API via HTTP",
+	"Category": "Other",
+	"CreatedBy": "ynyBonfennil",
+	"CreatedByURL": "https://github.com/ynyBonfennil/UE4-REST-API-Tools",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RESTAPITools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
